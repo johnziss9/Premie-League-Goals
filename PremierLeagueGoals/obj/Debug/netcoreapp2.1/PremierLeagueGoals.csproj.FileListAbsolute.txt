@@ -1,0 +1,7 @@
+C:\Users\jzissimou\Source\Repos\PremierLeagueGoals\PremierLeagueGoals\obj\Debug\netcoreapp2.1\PremierLeagueGoals.csproj.CoreCompileInputs.cache
+C:\Users\jzissimou\Source\Repos\PremierLeagueGoals\PremierLeagueGoals\obj\Debug\netcoreapp2.1\PremierLeagueGoals.AssemblyInfoInputs.cache
+C:\Users\jzissimou\Source\Repos\PremierLeagueGoals\PremierLeagueGoals\obj\Debug\netcoreapp2.1\PremierLeagueGoals.AssemblyInfo.cs
+C:\Users\jzissimou\Source\Repos\PremierLeagueGoals\PremierLeagueGoals\bin\Debug\netcoreapp2.1\PremierLeagueGoals.deps.json
+C:\Users\jzissimou\Source\Repos\PremierLeagueGoals\PremierLeagueGoals\bin\Debug\netcoreapp2.1\PremierLeagueGoals.runtimeconfig.json
+C:\Users\jzissimou\Source\Repos\PremierLeagueGoals\PremierLeagueGoals\bin\Debug\netcoreapp2.1\PremierLeagueGoals.runtimeconfig.dev.json
+C:\Users\jzissimou\Source\Repos\PremierLeagueGoals\PremierLeagueGoals\bin\Debug\netcoreapp2.1\PremierLeagueGoals.dll
