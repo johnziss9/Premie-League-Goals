@@ -7,23 +7,23 @@ Once the application is run, it is able to calculate the number of goals a team 
 
 The teams available are as below:
 
-  arsenal
-  astonvilla
-  burnley
-  chelsea
-  crystalpalace
-  everton
-  hull
-  leicester
-  liverpool
-  mancity
-  manutd
-  newcastle
-  qpr
-  southampton
-  stoke
-  sunderland
-  swansea
-  tottenham
-  westham
+  arsenal<br>
+  astonvilla<br>
+  burnley<br>
+  chelsea<br>
+  crystalpalace<br>
+  everton<br>
+  hull<br>
+  leicester<br>
+  liverpool<br>
+  mancity<br>
+  manutd<br>
+  newcastle<br>
+  qpr<br>
+  southampton<br>
+  stoke<br>
+  sunderland<br>
+  swansea<br>
+  tottenham<br>
+  westham<br>
   westbrom
