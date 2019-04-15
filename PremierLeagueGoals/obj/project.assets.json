@@ -743,11 +743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jzissimou\\Source\\Repos\\PremierLeagueGoals\\PremierLeagueGoals\\PremierLeagueGoals.csproj",
+      "projectUniqueName": "C:\\Users\\jzissimou\\Dropbox\\GitHub Projects\\PremierLeagueGoals\\PremierLeagueGoals\\PremierLeagueGoals.csproj",
       "projectName": "PremierLeagueGoals",
-      "projectPath": "C:\\Users\\jzissimou\\Source\\Repos\\PremierLeagueGoals\\PremierLeagueGoals\\PremierLeagueGoals.csproj",
+      "projectPath": "C:\\Users\\jzissimou\\Dropbox\\GitHub Projects\\PremierLeagueGoals\\PremierLeagueGoals\\PremierLeagueGoals.csproj",
       "packagesPath": "C:\\Users\\jzissimou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jzissimou\\Source\\Repos\\PremierLeagueGoals\\PremierLeagueGoals\\obj\\",
+      "outputPath": "C:\\Users\\jzissimou\\Dropbox\\GitHub Projects\\PremierLeagueGoals\\PremierLeagueGoals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
